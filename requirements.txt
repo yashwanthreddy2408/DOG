@@ -1,0 +1,4 @@
+streamlit==1.38.0
+numpy==1.26.4
+gTTS==2.5.3        # optional: text-to-speech for voice commands
+simpleaudio==1.0.4 # optional: local playback, not used in cloud
